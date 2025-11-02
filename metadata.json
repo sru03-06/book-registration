@@ -1,0 +1,5 @@
+{
+  "name": "Book Registry",
+  "description": "A mini web application to store and display a list of registered books. Users can view the existing book list and add new books through a simple form.",
+  "requestFramePermissions": []
+}
